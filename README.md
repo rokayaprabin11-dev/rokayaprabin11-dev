@@ -1,4 +1,5 @@
 <!-- Repo is already named "rokayaprabin11-dev", so this renders on your profile. Just commit it. -->
+<!-- Icons are FontAwesome 6 served as SVG via the Iconify API (GitHub strips FontAwesome's CSS/<i> tags). -->
 
 <div align="center">
 
@@ -18,21 +19,21 @@ Building geo-aware, bilingual apps for Nepali businesses & startups — from dat
 
 ---
 
-## 👤 Who am I?
+## <img src="https://api.iconify.design/fa6-solid:user.svg?color=%2358a6ff&height=24" height="24" alt="" />&nbsp; Who am I?
 
-- 🎓 Diploma in IT student at **Nepal Banepa Polytechnic Institute** (2024–2027) — doing real client and product work alongside my studies.
-- 💻 I build **full-stack web & mobile products end-to-end**: Flutter on mobile, Django on the backend, all the way through to deployment.
-- 🏛️ I love building things rooted in **Nepali culture** with proper **bilingual (English / नेपाली)** support and **geospatial** features.
-- 🔍 I also help local businesses with **SEO and digital growth** (e.g. Yeti Home Construction).
-- ⚡ I like shipping production-ready things, not just demos.
+- <img src="https://api.iconify.design/fa6-solid:graduation-cap.svg?color=%2358a6ff&height=18" height="18" alt="education" />&nbsp; Diploma in IT student at **Nepal Banepa Polytechnic Institute** (2024–2027) — doing real client and product work alongside my studies.
+- <img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%2358a6ff&height=18" height="18" alt="dev" />&nbsp; I build **full-stack web & mobile products end-to-end**: Flutter on mobile, Django on the backend, all the way through to deployment.
+- <img src="https://api.iconify.design/fa6-solid:landmark.svg?color=%2358a6ff&height=18" height="18" alt="heritage" />&nbsp; I love building things rooted in **Nepali culture** with proper **bilingual (English / नेपाली)** support and **geospatial** features.
+- <img src="https://api.iconify.design/fa6-solid:magnifying-glass.svg?color=%2358a6ff&height=18" height="18" alt="seo" />&nbsp; I also help local businesses with **SEO and digital growth** (e.g. Yeti Home Construction).
+- <img src="https://api.iconify.design/fa6-solid:bolt.svg?color=%2358a6ff&height=18" height="18" alt="ship" />&nbsp; I like shipping production-ready things, not just demos.
 
-## 🚧 What I'm currently working on
+## <img src="https://api.iconify.design/fa6-solid:person-digging.svg?color=%2358a6ff&height=24" height="24" alt="" />&nbsp; What I'm currently working on
 
-- 🏛️ **Sampada (सम्पदा) — Nepal Heritage Platform** — a heritage discovery app I'm building from the ground up. A **Flutter** app (Clean Architecture, offline-first) backed by a **Django REST** API with **PostGIS** geospatial search and bilingual full-text search. I'm handling the full lifecycle: architecture, backend, a 14-module admin panel with role-based access, design system, and deployment.
-- 🌐 **Freelance web + SEO work** — practical digital growth and search-optimized sites for local clients.
-- 🌱 **Leveling up** — deeper Clean Architecture, system design, and backend performance.
+- <img src="https://api.iconify.design/fa6-solid:landmark.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Sampada (सम्पदा) — Nepal Heritage Platform** — a heritage discovery app I'm building from the ground up. A **Flutter** app (Clean Architecture, offline-first) backed by a **Django REST** API with **PostGIS** geospatial search and bilingual full-text search. I'm handling the full lifecycle: architecture, backend, a 14-module admin panel with role-based access, design system, and deployment.
+- <img src="https://api.iconify.design/fa6-solid:globe.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Freelance web + SEO work** — practical digital growth and search-optimized sites for local clients.
+- <img src="https://api.iconify.design/fa6-solid:seedling.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Leveling up** — deeper Clean Architecture, system design, and backend performance.
 
-## 🛠️ What tools do I use?
+## <img src="https://api.iconify.design/fa6-solid:screwdriver-wrench.svg?color=%2358a6ff&height=24" height="24" alt="" />&nbsp; What tools do I use?
 
 **Languages**
 
@@ -71,19 +72,19 @@ Building geo-aware, bilingual apps for Nepali businesses & startups — from dat
 ![Semrush](https://img.shields.io/badge/Semrush-21262D?style=flat-square&logo=semrush&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-21262D?style=flat-square&logo=googleanalytics&logoColor=white)
 
-## 📫 How to reach me
+## <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%2358a6ff&height=24" height="24" alt="" />&nbsp; How to reach me
 
-- 💼 **LinkedIn:** [in/prabinrokaya-dev](https://www.linkedin.com/in/prabinrokaya-dev/)
-- 📧 **Email:** rokayaprabin11@gmail.com
-- 🌐 **Portfolio:** [rokayaprabin11-dev.github.io](https://rokayaprabin11-dev.github.io)
-- 📘 **Facebook:** [prabin.rokaya.867668](https://www.facebook.com/prabin.rokaya.867668)
-- 📍 Based in Banepa, Kavre — Nepal
+- <img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **LinkedIn:** [in/prabinrokaya-dev](https://www.linkedin.com/in/prabinrokaya-dev/)
+- <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Email:** rokayaprabin11@gmail.com
+- <img src="https://api.iconify.design/fa6-solid:globe.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Portfolio:** [rokayaprabin11-dev.github.io](https://rokayaprabin11-dev.github.io)
+- <img src="https://api.iconify.design/fa6-brands:facebook.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; **Facebook:** [prabin.rokaya.867668](https://www.facebook.com/prabin.rokaya.867668)
+- <img src="https://api.iconify.design/fa6-solid:location-dot.svg?color=%2358a6ff&height=18" height="18" alt="" />&nbsp; Based in Banepa, Kavre — Nepal
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/fa6-solid:chart-simple.svg?color=%2358a6ff&height=22" height="22" alt="" />&nbsp; GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rokayaprabin11-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaprabin11-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
@@ -94,6 +95,6 @@ Building geo-aware, bilingual apps for Nepali businesses & startups — from dat
 
 <br/><br/>
 
-Thanks for stopping by — let's build something for Nepal. 🏔️
+Thanks for stopping by — let's build something for Nepal. <img src="https://api.iconify.design/fa6-solid:mountain-sun.svg?color=%2358a6ff&height=18" height="18" alt="" />
 
 </div>
