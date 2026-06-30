@@ -58,3 +58,5 @@ Building geo-aware, bilingual apps for Nepali businesses & startups.
 ![Semrush](https://img.shields.io/badge/Semrush-21262D?style=flat-square&logo=semrush&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-21262D?style=flat-square&logo=googleanalytics&logoColor=white)
 
+**Certificate** &nbsp;
+![Google Analytics Certification](https://skillshop.credential.net/13b8ebd4-bc36-4ff7-964c-4fba00f21bb9#acc.EY6K1sWX)
