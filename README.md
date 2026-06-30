@@ -6,7 +6,6 @@ Building bilingual, culturally-rooted digital products — from the database to 
 
 <a href="https://www.linkedin.com/in/prabin-rokaya-dev"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rokayaprabin11@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://rokayaprabin11-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.facebook.com/prabin.rokaya.867668"><img src="https://img.shields.io/badge/Facebook-21262D?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
@@ -27,3 +26,24 @@ Building bilingual, culturally-rooted digital products — from the database to 
 🏛️ Sampada — Nepal Heritage Platform — a bilingual app bringing Nepal's heritage sites, festivals, and cultural guides into one place, with maps and geo-search. A Flutter app (Clean Architecture) backed by a Django REST API with PostGIS geospatial features.
 🌐 Freelance web + SEO work — portfolio sites and search-optimized landing pages for local clients.
 🌱 Leveling up — deeper Clean Architecture, system design, and backend performance.
+
+
+
+
+
+
+
+
+
+<div align="center">
+📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rokayaprabin11-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaprabin11-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=rokayaprabin11-dev&theme=github-dark&hide_border=true" alt="GitHub streak"/>
+<br/><br/>
+
+Thanks for stopping by — let's build something for Nepal. 🏔️
+
+</div>
