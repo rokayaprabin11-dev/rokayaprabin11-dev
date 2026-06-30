@@ -59,4 +59,4 @@ Building geo-aware, bilingual apps for Nepali businesses & startups.
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-21262D?style=flat-square&logo=googleanalytics&logoColor=white)
 
 **Certificate** &nbsp;
-![Google Analytics Certification](https://skillshop.credential.net/13b8ebd4-bc36-4ff7-964c-4fba00f21bb9)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Certified-blue)](https://www.credential.net/13b8ebd4-bc36-4ff7-964c-4fba00f21bb9)
