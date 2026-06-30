@@ -58,9 +58,3 @@ Building geo-aware, bilingual apps for Nepali businesses & startups.
 ![Semrush](https://img.shields.io/badge/Semrush-21262D?style=flat-square&logo=semrush&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-21262D?style=flat-square&logo=googleanalytics&logoColor=white)
 
-<div align="center">
-
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=rokayaprabin11-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokayaprabin11-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
-
-</div>
