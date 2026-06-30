@@ -8,7 +8,6 @@ Building bilingual, culturally-rooted digital products — from the database to 
 <a href="mailto:rokayaprabin11@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://rokayaprabin11-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.facebook.com/prabin.rokaya.867668"><img src="https://img.shields.io/badge/Facebook-21262D?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<img src="https://komarev.com/ghpvc/?username=rokayaprabin11-dev&style=flat-square&color=21262D&label=Profile+views" alt="Profile views"/>
 
 </div>
 
